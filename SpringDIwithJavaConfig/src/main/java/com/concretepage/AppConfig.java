@@ -11,8 +11,12 @@ import com.concretepage.bean.Product;
 public class AppConfig {
 	@Bean(name="mycompany")
 	
-	
-	
+	/**
+	 * 
+	 * Adding my comment to test checkin from workspace. 
+	 *
+	 */
+
 	public Company getCompany() {
 		Company comp = new Company();
 		comp.setCompId(100);
