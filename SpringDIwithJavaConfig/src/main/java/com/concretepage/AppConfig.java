@@ -14,7 +14,7 @@ public class AppConfig {
 	/**
 	 * 
 	 * Adding my comment to test checkin from workspace. 
-	 *
+	 * New comment added.
 	 */
 
 	public Company getCompany() {
